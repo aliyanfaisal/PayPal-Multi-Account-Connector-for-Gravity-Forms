@@ -1,4 +1,4 @@
-# Custom PayPal Multi-Account Connector for Gravity Forms
+# PayPal Multi-Account Connector for Gravity Forms
 
 This custom WordPress plugin allows you to connect a **Secondary PayPal Account** to Gravity Forms, selectively processing payments to a different PayPal account based on user input, while bypassing the primary PayPal Checkout (PPCP) feed.
 
